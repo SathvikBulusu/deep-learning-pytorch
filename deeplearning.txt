@@ -1,0 +1,48 @@
+Day 1 : 8th feb 2024
+
+ngl i started exploring into the youtube with Daniel Bourke course on Free code camp and honestly
+its good the basic introduction as to whats the difference between machine learning 
+and deeplearning is being explained. 
+
+
+so simply put imagine u had  a life of microorgansims that are found in mars and u only got pictures and as we know 
+machine learning only got space for structured data 
+
+and some algorithms which are almost split into \
+
+a. supervised learning - this is like the most lucky part of machine learning this guy gets both huge data in structured forms and labeled data
+                         so his life is comparitvely better than a person who just entered the kitchen and has to cook dinner with fork lol.
+
+b. unsupervised learning - the machine gets a lot of data but it needs algorithms to perform with unlabeled data. so this where majority of the 
+                           the experimentation takes place 
+
+c. reinforcement learning - the machine uses its true potential by learning through feedback just like exams 
+in college etc.
+
+
+so u must be asking omg augustus where exactly do they use deep learning in 2024 so heres few examples
+
+deep learning is used to recommend you shows on netflix. 
+ofcourse also on spotify .
+deep learning is used in maps to find a way for you to reach your destination faster.
+deep learning is also used in google lens and using that to find out the product that u wanna buy
+
+coming to subsets through deeplearning this has nlp , computer vision , recommendation systems etc 
+
+
+so after knowing the basic understanding lets dive into what makes deep learning
+
+deep learning was intially formed to mimic the human brain cause theres neurons which are formed for every action that we perform 
+
+so this action that u are performing is totally based on 
+
+neural networks of neurons in your brain 
+
+and this is exactly whats being done in the deep learning 
+
+and that can be done through many different frameworks but as i would be using it for pretty extensive use i would be choosing 
+pytorch 
+
+
+pytorch - an open source that was created by meta and now happens to dominate the industry faster than layoffs that are happening lol 
+
