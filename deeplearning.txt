@@ -46,3 +46,21 @@ pytorch
 
 pytorch - an open source that was created by meta and now happens to dominate the industry faster than layoffs that are happening lol 
 
+alright thats for the basics now lets get to code 
+
+before that i am finding out if i can use github and stuff through jupyter notebook or google colab , ngl colab is good but ehh
+idk i just feel weird using it, dont know why its congested.
+
+
+so i am using the code to install locally on my laptop :- why cause i wanna destory the memory lol jk. ofc running locally would be more 
+fun than online in my opinion if u love jupyter notebook or vscode extension ipynb ( ps u gotta install the extension in this again so DISCLAMIER!!)
+
+
+
+pip3 install torch torchvision torchaudio 
+
+
+^^^^
+||||
+
+code to install in windows 
