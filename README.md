@@ -1,4 +1,4 @@
-##Hello there travelers 
+### Hello there travelers 
 
 this is basically a way to enhance your thinking from memes to deep learning 
 
